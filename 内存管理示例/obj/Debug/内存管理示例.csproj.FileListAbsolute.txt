@@ -1,0 +1,10 @@
+D:\MyData\VisualStdio\内存管理示例\内存管理示例\bin\Debug\内存管理示例.exe.config
+D:\MyData\VisualStdio\内存管理示例\内存管理示例\bin\Debug\内存管理示例.exe
+D:\MyData\VisualStdio\内存管理示例\内存管理示例\bin\Debug\内存管理示例.pdb
+D:\MyData\VisualStdio\内存管理示例\内存管理示例\obj\Debug\内存管理示例.csprojResolveAssemblyReference.cache
+D:\MyData\VisualStdio\内存管理示例\内存管理示例\obj\Debug\内存管理示例.Form1.resources
+D:\MyData\VisualStdio\内存管理示例\内存管理示例\obj\Debug\内存管理示例.Properties.Resources.resources
+D:\MyData\VisualStdio\内存管理示例\内存管理示例\obj\Debug\内存管理示例.csproj.GenerateResource.Cache
+D:\MyData\VisualStdio\内存管理示例\内存管理示例\obj\Debug\内存管理示例.csproj.CoreCompileInputs.cache
+D:\MyData\VisualStdio\内存管理示例\内存管理示例\obj\Debug\内存管理示例.exe
+D:\MyData\VisualStdio\内存管理示例\内存管理示例\obj\Debug\内存管理示例.pdb
